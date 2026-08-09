@@ -28,7 +28,7 @@ Kosongin isi? Iya. Biar lu bebas isi sendiri meme, sound, dan vibe lu sendiri.
 - **ℹ️ Tab Support**: Ada halaman tentang aplikasi + dukungan via Saweria
 
 ### **⬇️ Download**
-**Versi Terbaru: v1.0.0**
+**Versi Terbaru: v2.0.0**
 [Download Qyo Soundboard.apk]([Not Found])
 
 > Catatan: Karena bukan dari Play Store, aktifin "Install dari sumber tidak dikenal" di pengaturan HP ya
