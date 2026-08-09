@@ -32,7 +32,9 @@ Kosongin isi? Iya. Biar lu bebas isi sendiri meme, sound, dan vibe lu sendiri.
 [Download Qyo Soundboard.apk]([Not Found])
 
 > Catatan: Karena bukan dari Play Store, aktifin "Install dari sumber tidak dikenal" di pengaturan HP ya
-> Link : https://github.com/kyo404-cmd/QyoSoundboard-app/releases/download/v1.2.0_native/QyoSound.apk
+
+Link : https://github.com/kyo404-cmd/QyoSoundboard-app/releases/download/v1.2.0_native/QyoSound.apk
+Link Release Page : https://github.com/kyo404-cmd/QyoSoundboard-app/releases/tag/V2.0.0_Native
 
 ### **🚀 Cara Pakai**
 1.  Install APK
